@@ -1,3 +1,0 @@
-var robot = {
-  smart: true
-};
